@@ -1,4 +1,7 @@
 spring:
+  application:
+    name: Config-Default
+
   jackson:
     serialization:
       indent-output: true
